@@ -1,1 +1,1 @@
-# h2oGPT-model3
+# h2oGPT-llm-studio
